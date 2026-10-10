@@ -99,4 +99,4 @@ No. There is no telemetry and no cloud upload - it is fully local.
 
 ---
 
-*astral-crystal-224 · Updated 2026-10-09 · Shared under the MIT License*
+*astral-crystal-224 · Updated 2026-10-10 · Shared under the MIT License*
